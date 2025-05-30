@@ -2,3 +2,5 @@
 Repositorio del ejercicio realizado en la materia de Principios de Construcción de Software  Periodo FEB - JUL 2025
 
 Este ejercicio es una aplicación de control escolar
+
+Cambio para ejemplo
